@@ -169,6 +169,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: 3Seat2 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1217277421368482119, guid: bd72486aa780d7c488fce4c5de88266f,
+        type: 3}
+      propertyPath: m_TagString
+      value: Manipulatable
+      objectReference: {fileID: 0}
     - target: {fileID: 1491432269327885449, guid: bd72486aa780d7c488fce4c5de88266f,
         type: 3}
       propertyPath: m_MinScale
